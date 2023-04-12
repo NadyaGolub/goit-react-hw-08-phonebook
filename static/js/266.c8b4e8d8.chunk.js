@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[266],{1266:function(t,e,n){n.r(e),n.d(e,{default:function(){return o}});var c=n(3329),i={container:{minHeight:"calc(100vh - 50px)",display:"flex",alignItems:"center",justifyContent:"center"},title:{fontWeight:500,fontSize:48,textAlign:"center"}};function o(){return(0,c.jsx)("div",{style:i.container,children:(0,c.jsx)("h1",{style:i.title,children:"Hello! It's your contacts book! This you can save contacts."})})}}}]);
+//# sourceMappingURL=266.c8b4e8d8.chunk.js.map
