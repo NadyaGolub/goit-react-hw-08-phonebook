@@ -18,8 +18,8 @@ code {
 
     ul {
   list-style: none;
-  
   padding: 0;
+  
 }
 li {
   list-style: none;

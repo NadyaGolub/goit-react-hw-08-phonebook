@@ -16,5 +16,5 @@ export const ButtonDel = styled.button`
   line-height: 1.2;
   text-align: center;
   cursor: pointer;
-  margin-left: auto;
+  
 `;
